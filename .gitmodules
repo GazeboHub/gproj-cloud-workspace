@@ -1,3 +1,12 @@
 [submodule "project-3p/origin-server"]
 	path = project-3p/origin-server
 	url = https://github.com/openshift/origin-server.git
+[submodule "project-3p/razor-baseline"]
+	path = project-3p/razor-baseline
+	url = https://github.com/puppetlabs/Razor.git
+[submodule "project-3p/razor-server"]
+	path = project-3p/razor-server
+	url = https://github.com/puppetlabs/razor-server
+[submodule "project-3p/razor-microkernel-el"]
+	path = project-3p/razor-microkernel-el
+	url = https://github.com/puppetlabs/razor-el-mk
