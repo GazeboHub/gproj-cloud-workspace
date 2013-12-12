@@ -1,6 +1,14 @@
+## Text
+*~
+*#
+## Eclipse IDE
+.metadata
+.settings
+## Maven
+target
+## Java
 *.class
-
-# Package Files #
+### Java Archives
 *.jar
 *.war
 *.ear
